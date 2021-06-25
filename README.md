@@ -27,7 +27,7 @@ Hello Guys This a tools written in Python by me to UDP-Flood victim's IP address
     
 # Usage :- 
     > python udp_flood.py
-    ![1](https://user-images.githubusercontent.com/81870774/123440773-c3df7100-d5f0-11eb-829b-725f52389e3e.png)
+![1](https://user-images.githubusercontent.com/81870774/123440773-c3df7100-d5f0-11eb-829b-725f52389e3e.png)
 
 
     >Fill in the Victim's "IP address" and then "PORT" and Hit Enter.
